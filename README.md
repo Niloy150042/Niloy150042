@@ -3,10 +3,12 @@
 <h1 align="center">Hello 👋, I'm Mehedi Islam Niloy</h1>
 <h3 align="center">A full-time dedicated frontend developer from Bangladesh</h3>
 
-<img align="right"  width="700" src="https://i.ibb.co/yYxqk4D/download.png" >
+<div align='center' > 
+  <img align=""  width="700" src="https://i.ibb.co/yYxqk4D/download.png" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niloy150042" alt="niloy150042" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niloy150042" alt="niloy150042" /></a> </p>
 
+</div>
 - 🌱 I’m currently learning **Tailwind , MongoDB , React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Niloy150042?tab=repositories](https://github.com/Niloy150042?tab=repositories)
